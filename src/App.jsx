@@ -73,7 +73,7 @@ const App = () => {
         TodoInput
       </Typography>
       <Box
-        component="section"
+        componente="section"
         sx={{
           border: 1,
           borderColor: "grey.500",
